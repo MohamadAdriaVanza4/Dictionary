@@ -207,7 +207,7 @@ dan Berikut hasilnya :
 - Jika pilih (H) untuk menghapus data yang ingin di hapus, hasilnya seperti berikut ini :
 ![H](https://user-images.githubusercontent.com/115931631/204125781-f48cfd5b-1512-41cd-8c3b-aefb9e9dc980.png)
 
-# Selesai.  Seperti itulah program crud sederhana yang kita buat,
+# Selesai.  Seperti itulah program crud sederhana yang kita buat.
 
 
 
